@@ -53,7 +53,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://gilliantorrencemyers-droid.github.io/"
     - label: "Ratcliff Lab"
-      icon: "fab fa-fw fa-microscope"
+      icon: "fab fa-fw fa-bacteria"
       url: "https://ratclifflab.biosci.gatech.edu/"
 
 footer:
