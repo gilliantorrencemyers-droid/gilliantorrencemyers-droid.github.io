@@ -45,34 +45,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Gillian Myers"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "A 4th year at Georgia Institute of Technology majoring in Biology with a minor in Japanese. Experience in RNA-Seq analysis using DESeq2, developing scripts in R and linux/bash, and creating/drafting research papers Enthusiasm for biodefense, national security and biotechnology."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://gilliantorrencemyers-droid.github.io/"
+    - label: "Ratcliff Lab"
+      icon: "fab fa-fw fa-microscope"
+      url: "https://ratclifflab.biosci.gatech.edu/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://gilliantorrencemyers-droid.github.io/"
+    - label: "Ratcliff Lab"
+      icon: "fab fa-fw fa-microscope"
+      url: "https://ratclifflab.biosci.gatech.edu/"
 
 defaults:
   # _posts
