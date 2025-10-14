@@ -1,5 +1,4 @@
 ---
-layout: Minimal Mistakes
 title: "R Scripts & Pictures"
 permalink: /r-undergrad-scripts/
 ---
