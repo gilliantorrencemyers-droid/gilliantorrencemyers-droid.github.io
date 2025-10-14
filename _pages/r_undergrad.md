@@ -1,6 +1,6 @@
 ---
 title: "R Scripts & Pictures"
-permalink: /r-undergrad-scripts/
+permalink: /r-undergrad-scripts-2PWC/
 ---
 
 # R Scripts & Pictures
