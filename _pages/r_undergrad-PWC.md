@@ -3,8 +3,6 @@ title: "R Scripts & Pictures"
 permalink: /r-undergrad-scripts-PWC/
 ---
 
-# R Scripts & Pictures
-
 ## R Scripts
 - [Data_Analysis_2PWC_F25.R](gilliantorrencemyers-droid.github.io/Data_Analysis_2PWC_F25.R)
 
