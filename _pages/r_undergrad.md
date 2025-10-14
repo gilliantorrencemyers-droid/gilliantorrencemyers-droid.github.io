@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "R Scripts & Pictures"
-permalink: /r-undergrad-scripts-2PWC/
+permalink: /r-undergrad-scripts-PWC/
 ---
 
 # R Scripts & Pictures
