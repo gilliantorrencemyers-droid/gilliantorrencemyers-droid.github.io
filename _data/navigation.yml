@@ -1,4 +1,4 @@
-main:
+navigation: 
   - title: "Undergraduate Research"
     url: /r-undergrad/
     children:
