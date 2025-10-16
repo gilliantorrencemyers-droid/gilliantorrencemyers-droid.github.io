@@ -6,7 +6,8 @@ permalink: /r-undergrad/r-undergrad-scripts-Evolved-Heatmaps/
 ## R Script
 
 Download it here!
--[Script_04_evolved_heatmaps_August2025.R](gilliantorrencemyers-droid.github.io/Script_04_evolved_heatmaps_August2025.R)
+
+- [Script_04_evolved_heatmaps_August2025.R](/assets/Script_04_evolved_heatmaps_August2025.R)
 
 ################### Heatmaps for Evolved Strands ######################
 
