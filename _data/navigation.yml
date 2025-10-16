@@ -1,9 +1,9 @@
 main:
   - title: "Undergraduate Research"
     url: /r-undergrad/
-      Heatmaps:
-        -title: "Evolved Heatmaps"
-          url: /r-undergrad/r-undergrad-scripts-Evolved-Heatmaps/
+    children:
+      - title: "Evolved Heatmaps"
+        url: /r-undergrad/r-undergrad-scripts-Evolved-Heatmaps/
   - title: "Relevant Experience"
     url: /categories/
   - title: "About"
