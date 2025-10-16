@@ -1,6 +1,6 @@
 ---
 title: "Heatmaps"
-permalink: /r-undergrad-Evolved-Heatmaps/
+permalink: /r-undergrad/r-undergrad-scripts-Evolved-Heatmaps/
 ---
 
 ## R Script
