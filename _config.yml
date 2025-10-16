@@ -23,6 +23,18 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
+  
+navigation:
+  - title: "Undergraduate Research"
+    url: /r-undergrad/
+    children:
+      - title: "Evolved Heatmaps"
+        url: /r-undergrad/r-undergrad-scripts-Evolved-Heatmaps/
+  - title: "Relevant Experience"
+    url: /categories/
+  - title: "About"
+    url: /about/
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
