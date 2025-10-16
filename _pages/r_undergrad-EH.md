@@ -1,7 +1,6 @@
 ---
 title: "Evolved Heatmaps"
 permalink: /r-undergrad/r-undergrad-scripts-Evolved-Heatmaps/
-nav_dropdown: true
 ---
 
 ## R Script
