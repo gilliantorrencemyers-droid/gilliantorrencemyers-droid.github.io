@@ -10,9 +10,6 @@ description:
 github_username: Gillian Myers
 minimal_mistakes_skin: dark
 search: true
-header_pages:
-  - /index.md
-  - /about.md
 
 # Build settings
 markdown: kramdown
