@@ -1,5 +1,5 @@
 ---
-title: "Heatmaps"
+title: "Evolved Heatmaps"
 permalink: /r-undergrad/r-undergrad-scripts-Evolved-Heatmaps/
 ---
 
