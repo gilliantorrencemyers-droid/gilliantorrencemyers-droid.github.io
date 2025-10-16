@@ -28,17 +28,6 @@ include:
   - _pages
   -_data
   
-navigation:
-  - title: "Undergraduate Research"
-    url: /r-undergrad/
-    children:
-      - title: "Evolved Heatmaps"
-        url: /r-undergrad/r-undergrad-scripts-Evolved-Heatmaps/
-  - title: "Relevant Experience"
-    url: /categories/
-  - title: "About"
-    url: /about/
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
