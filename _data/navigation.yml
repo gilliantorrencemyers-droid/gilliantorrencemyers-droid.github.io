@@ -2,9 +2,10 @@ main:
   - title: "Undergraduate Research"
     url: /undergraduate-research/
     children:
-      -title: "Scripts"
-       url: /scripts/
+      - title: "Scripts"
+        url: /scripts/
   - title: "Relevant Experience"
     url: /relevant-experience/
   - title: "About"
     url: /about/
+
