@@ -4,12 +4,12 @@ permalink: /r-undergrad-scripts-Evolved-Heatmaps/
 categories: r-undergrad
 ---
 
-## R Script
-
 Download it here!
 
 - [Script_04_evolved_heatmaps_August2025.R](/assets/Script_04_evolved_heatmaps_August2025.R)
 
+
+```r
 ################### Heatmaps for Evolved Strands ######################
 
 #======================================================================
@@ -269,3 +269,4 @@ for (pathway_name in names(pathway_genes_evolved)) {
                          res_PA5_t1000_vs_GOB8, res_PA5_t1000_vs_GOB21, res_GOB21_vs_GOB8, res_PM5_t1000_vs_GOB8, res_PO5_t1000_L_vs_GOB8, res_PO5_t1000_S_vs_GOB8, res_GOB8_Gly_vs_GOB8)
 }
 cat("\nAnalysis complete!\n")
+```
