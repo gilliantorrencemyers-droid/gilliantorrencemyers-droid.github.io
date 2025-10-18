@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Undergraduate Research"
 permalink: /undergraduate-research/
 category: Undergraduate-Research
