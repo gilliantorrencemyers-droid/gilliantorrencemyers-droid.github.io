@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Undergraduate Research"
 permalink: /r-undergrad/
 ---
