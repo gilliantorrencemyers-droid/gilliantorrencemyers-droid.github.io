@@ -2,6 +2,7 @@
 layout: page
 title: "Undergraduate Research"
 permalink: /r-undergrad/
+category: Undergraduate-Research
 ---
 
 <h1>Undergraduate Research</h1>
