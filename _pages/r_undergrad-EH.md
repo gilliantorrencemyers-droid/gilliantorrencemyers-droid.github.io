@@ -1,6 +1,6 @@
 ---
 title: "Evolved Heatmaps"
-permalink: /r-undergrad/r-undergrad-scripts-Evolved-Heatmaps/
+permalink: /r-undergrad-scripts-Evolved-Heatmaps/
 categories: r-undergrad
 ---
 
