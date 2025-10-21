@@ -27,7 +27,7 @@ Focused on gene regulation, CpG methylation, and non-genetic sources of intratum
 
 Used bioinformatics tools for NGS data analysis, genome annotation, and functional genomics.
 
-- 💻 [Pipeline for RNA-seq Analysis](https://github.com/yourusername/genomics-rnaseq)
+- 💻 [Data Access QC](/data-access-qc/)
 
 ---
 
