@@ -6,7 +6,7 @@ categories: r-undergrad
 
 Download it here!
 
-- [Script_04_evolved_heatmaps_August2025.R](/assets/Script_04_evolved_heatmaps_August2025.R)
+- [Script_04_evolved_heatmaps_August2025.R](/Script_04_evolved_heatmaps_August2025.R)
 
 
 ```r
