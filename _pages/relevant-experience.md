@@ -28,6 +28,7 @@ Focused on gene regulation, CpG methylation, and non-genetic sources of intratum
 Used bioinformatics tools for NGS data analysis, genome annotation, and functional genomics.
 
 - 💻 [Data Access QC](/data-access-qc/)
+- 💻 [Modeling Disparities(EHR)](/modeling-disparities/)
 
 ---
 
