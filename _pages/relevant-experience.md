@@ -11,7 +11,7 @@ Review papers and code from my courses as an undergraduate.
 
 Explored how metabolic pathways impacted *S. cerevisiae*'s gene network.
 
-- 📄 [Review Paper](/assets/microbio-review-paper.pdf)
+- 📄 [Review Paper](/microbio-review-paper.pdf)
 
 ---
 
@@ -19,7 +19,7 @@ Explored how metabolic pathways impacted *S. cerevisiae*'s gene network.
 
 Focused on gene regulation, CpG methylation, and non-genetic sources of intratumor heterogeneity.
 
-- 📄 [Review Paper: H1.0 generating intratumor heterogeneity](/assets/epigenetics-review-paper.pdf)
+- 📄 [Review Paper: H1.0 generating intratumor heterogeneity](/epigenetics-review-paper.pdf)
 
 ---
 
@@ -35,4 +35,4 @@ Used bioinformatics tools for NGS data analysis, genome annotation, and function
 
 Focused on microRNA's composition and potential role in multicellular evolution.
 
-- 📄 [Workshop Presentation](/assets/rna-biotech-workshop.pdf)
+- 📄 [Workshop Presentation](/rna-biotech-workshop.pdf)
