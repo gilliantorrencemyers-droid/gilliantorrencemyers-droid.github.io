@@ -1,3 +1,8 @@
+---
+title: "Data Access & QC"
+permalink: /data-access-qc/
+---
+
 ![Picture1.png](Project1-DataAccessQC_Gillian_files/Picture1.png)
 
 <div class="alert alert-block alert-info">
@@ -483,3 +488,4 @@ File_1
 
 File_2
 ![image.png](Project1-DataAccessQC_Gillian_files/image.png)
+
