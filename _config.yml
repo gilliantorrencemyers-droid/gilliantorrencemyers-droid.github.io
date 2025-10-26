@@ -49,13 +49,13 @@ plugins:
 author:
   name   : "Gillian Myers"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A 4th year at Georgia Institute of Technology majoring in Biology with a minor in Japanese. Experience in RNA-Seq analysis using DESeq2, developing scripts in R and linux/bash, and creating/drafting research papers Enthusiasm for biodefense, national security and biotechnology."
+  bio    : 
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://gilliantorrencemyers-droid.github.io/"
     - label: "Ratcliff Lab"
-      icon: "fab fa-fw fa-bacteria"
+      icon: "fab fa-fw fa-github"
       url: "https://ratclifflab.biosci.gatech.edu/"
 
 footer:
@@ -64,7 +64,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://gilliantorrencemyers-droid.github.io/"
     - label: "Ratcliff Lab"
-      icon: "fab fa-fw fa-microscope"
+      icon: "fab fa-fw fa-github"
       url: "https://ratclifflab.biosci.gatech.edu/"
 
 defaults:
