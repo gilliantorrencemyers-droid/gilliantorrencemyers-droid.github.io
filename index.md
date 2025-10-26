@@ -15,6 +15,7 @@ author_profile: true
 </div>
 
 <div align="center">
+  <h1>About me:</h1>
   <p>
     A 4th-year student at Georgia Institute of Technology, majoring in Biology with a minor in Japanese.  
     Experienced in RNA-Seq analysis, developing scripts in R and Linux/Bash, and creating/drafting research papers.
@@ -35,6 +36,6 @@ author_profile: true
   <ul style="list-style-position: inside; text-align: left; display: inline-block;">
     <li><em>The Achilles Trap</em> by Steve Coll</li>
     <li><em>Black Flags</em> by Joby Warrick</li>
-    <li><em>True Believer</em> by James Carr</li>
+    <li><em>True Believer</em> by Jack Carr</li>
   </ul>
 </div>
