@@ -1,7 +1,7 @@
 ---
 title: "GOB21 vs GOB8 Kegg & GO Enrichment"
 permalink: /scripts-21-8-Enrichment/
-categories: r-undergrad
+
 ---
 Download it here!
 - [GOB21_vs_GOB8_KEGG_Enrichment.R](/GOB21_vs_GOB8_KEGG_Enrichment.R)
