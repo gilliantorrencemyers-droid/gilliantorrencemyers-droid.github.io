@@ -48,7 +48,7 @@ plugins:
 
 author:
   name   : "Gillian Myers"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile.jpg"
   bio    : 
   links:
     - label: "GitHub"
