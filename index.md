@@ -36,6 +36,6 @@ author_profile: true
   <ul style="list-style-position: inside; text-align: left; display: inline-block;">
     <li><em>The Achilles Trap</em> by Steve Coll</li>
     <li><em>Black Flags</em> by Joby Warrick</li>
-    <li><em>True Believer</em> by Jack Carr</li>
+    <li><em>The Devils Hand</em> by Jack Carr</li>
   </ul>
 </div>
