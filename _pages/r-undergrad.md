@@ -5,6 +5,6 @@ category: Undergraduate-Research
 ---
 
 - [Scripts](/scripts/) — all scripts used in my project.
-- [Draft Thesis](/REVISEDPROPOALLMC4701.pdf/)
+- [Undergraduate Thesis](/BIOS4690FinalManuscript.pdf)
 
 
