@@ -15,17 +15,17 @@ category: Undergraduate-Research
 ![TCA Heatmap](images/TCA_aerobic_respiration_heatmap.png)
 ![TCA Bar Plot](images/TCABARPLOTGITHUB.png)
 
-<p align="center">
-  <img src="./images/sce00190.pathview_8_10.png" width="400" />
-  <img src="./images/glycolysis_heatmap.png" width="400" />
+<<p align="center">
+  <img src="./assets/images/sce00190.pathview_8_10.png" width="400" />
+  <img src="./assets/images/glycolysis_heatmap.png" width="400" />
 </p>
 
 <p align="center">
-  <img src="./images/glycolysisbarplotGITHUB.png" width="400" />
-  <img src="./images/sce00190.G21V8_5.png" width="400" />
+  <img src="./assets/images/glycolysisbarplotGITHUB.png" width="400" />
+  <img src="./assets/images/sce00190.G21V8_5.png" width="400" />
 </p>
 
 <p align="center">
-  <img src="./images/TCA_aerobic_respiration_heatmap.png" width="400" />
-  <img src="./images/TCABARPLOTGITHUB.png" width="400" />
+  <img src="./assets/images/TCA_aerobic_respiration_heatmap.png" width="400" />
+  <img src="./assets/images/TCABARPLOTGITHUB.png" width="400" />
 </p>
