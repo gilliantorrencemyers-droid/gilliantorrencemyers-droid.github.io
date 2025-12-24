@@ -5,6 +5,10 @@ permalink: /scripts/
 
 ## Scripts in R from newest to oldest. Enjoy!
 
+- [Script_11_Pathview_GLYv8_enzymes.R](/scripts-PS-Gv8-enzymes/)
+- [Script_10_Barplots_Revised.R](/scripts-barplots/)
+- [Script_09_Pathway_G21V8_enzyme.R](/scripts-PS-21v8-EM/)
+- [Script_08_Evolved_Schematics.R](/scripts-evolved-schematics/)
 - [Script_06_Pathway_schematicG21V8](/scripts-PS-21v8/)
 - [Script_05_Pathway_SchematicG8V8](/scripts-PS-glyv8/)
 - [Script_04_evolved_heatmaps_August2025](/scripts-evolved-heatmaps/)
